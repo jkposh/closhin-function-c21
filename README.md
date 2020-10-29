@@ -1,2 +1,2 @@
-# closhin-function-c21
-function
+# collisionAlgorithm
+Algorithm to detect collision between two objects
